@@ -55,7 +55,6 @@ Senior DevOps Engineer · Site Reliability Engineer (SRE) · Platform Engineer �
 ## Open source
 
 - [gitclip](https://github.com/ervinmckeats/gitclip): enforces git rules for AI coding agents (Claude Code, Codex, Cursor): human-only authorship, no AI trailers, branch and commit naming, PR-only changes.
-- [ubuntu-server-ssh](https://github.com/ervinmckeats/ubuntu-server-ssh): Ubuntu server SSH setup.
 
 ## Contact
 
