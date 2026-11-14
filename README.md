@@ -3,7 +3,7 @@
 *ervinmckeats* is the name I go by online; on my CV and in contracts I'm **Maksim Komarov**.
 
 **Open to work:** full-time **remote (worldwide)** or **relocation with visa sponsorship**.
-Based in Busan, South Korea · Russian citizen · English C1
+Based in Busan, South Korea · English C1
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ai--ops--devops-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-ops-devops)
 ![Open to work](https://img.shields.io/badge/status-open%20to%20work-2ea44f)
