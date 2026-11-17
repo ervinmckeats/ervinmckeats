@@ -56,6 +56,10 @@ Senior DevOps Engineer · Site Reliability Engineer (SRE) · Platform Engineer �
 
 - [gitclip](https://github.com/ervinmckeats/gitclip): enforces git rules for AI coding agents (Claude Code, Codex, Cursor): human-only authorship, no AI trailers, branch and commit naming, PR-only changes.
 
+## Posts
+
+- [How L2 load balancing works in bare-metal Kubernetes (and what v1.36 / v1.37 changed)](posts/2026-11-l2-load-balancing/), with a pixel-art failover animation.
+
 ## Contact
 
 Recruiters and hiring managers: message me on [LinkedIn](https://www.linkedin.com/in/ai-ops-devops). Full CV on request.
