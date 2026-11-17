@@ -2,7 +2,7 @@
 
 *ervinmckeats* is the name I go by online; on my CV and in contracts I'm **Maksim Komarov**.
 
-**Open to work:** full-time **remote (worldwide)** or **relocation with visa sponsorship**.
+**Open to work:** full-time **remote (worldwide)**.
 Based in Busan, South Korea · English C1
 
 Senior DevOps / Site Reliability Engineer and Infrastructure Architect with **12+ years** of production Linux infrastructure for government, media and technology organizations. I build Kubernetes platforms, Infrastructure as Code, CI/CD and GitOps pipelines, observability with SLOs, and **AI / MLOps infrastructure** (GPU compute, local LLM serving with Ollama, ComfyUI pipelines). AI-first engineer: I use AI tools and agentic workflows in daily engineering work.
@@ -59,4 +59,4 @@ Recruiters and hiring managers: message me on [LinkedIn](https://www.linkedin.co
 [![Email](https://img.shields.io/badge/Email-ervinmckeats%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ervinmckeats@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40mxm39-26A5E4?logo=telegram&logoColor=white)](https://t.me/mxm39)
 
-<sub>Keywords: DevOps, SRE, Site Reliability Engineering, Platform Engineering, Kubernetes, Terraform, Ansible, AWS, GitOps, ArgoCD, CI/CD, GitLab CI, Jenkins, Prometheus, Grafana, Observability, MLOps, LLMOps, AI Infrastructure, Infrastructure Architect, Cloud Architect, Team Lead, Remote, Relocation, Visa Sponsorship.</sub>
+<sub>Keywords: DevOps, SRE, Site Reliability Engineering, Platform Engineering, Kubernetes, Terraform, Ansible, AWS, GitOps, ArgoCD, CI/CD, GitLab CI, Jenkins, Prometheus, Grafana, Observability, MLOps, LLMOps, AI Infrastructure, Infrastructure Architect, Cloud Architect, Team Lead, Remote.</sub>
