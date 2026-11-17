@@ -20,6 +20,7 @@ The latest release, v1.37, keeps both on that path. So the clean setup is a Serv
 3. The switch sends all traffic for that IP to this one node.
 4. From there kube-proxy spreads connections across pods on every node.
 5. If the leader dies, another node takes over and announces the IP with a gratuitous ARP. Failover takes seconds.
+6. Pods that ran on the dead node are gone until Kubernetes recreates them on healthy nodes (about 5 minutes with default tolerations).
 
 ## What people get wrong
 
