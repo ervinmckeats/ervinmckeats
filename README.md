@@ -5,10 +5,9 @@
 **Open to work:** full-time **remote (worldwide)** or **relocation with visa sponsorship**.
 Based in Busan, South Korea · English C1
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ai--ops--devops-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ai-ops-devops)
-![Open to work](https://img.shields.io/badge/status-open%20to%20work-2ea44f)
-![Remote](https://img.shields.io/badge/remote-worldwide-blue)
-![Relocation](https://img.shields.io/badge/relocation-yes-blue)
+[![LinkedIn · Open to work](https://img.shields.io/badge/LinkedIn-open%20to%20work-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ai-ops-devops)
+[![Email](https://img.shields.io/badge/Email-komarovmaksim1801%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komarovmaksim1801@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40mxm39-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mxm39)
 
 Senior DevOps / Site Reliability Engineer and Infrastructure Architect with **12+ years** of production Linux infrastructure for government, media and technology organizations. I build Kubernetes platforms, Infrastructure as Code, CI/CD and GitOps pipelines, observability with SLOs, and **AI / MLOps infrastructure** (GPU compute, local LLM serving with Ollama, ComfyUI pipelines). AI-first engineer: I use AI tools and agentic workflows in daily engineering work.
 
