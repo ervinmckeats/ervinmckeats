@@ -52,6 +52,12 @@ Senior DevOps Engineer · Site Reliability Engineer (SRE) · Platform Engineer �
 | 2015 – 2018 | Server Administrator | Digital Xezze JSC |
 | 2013 – 2015 | Linux System Administrator | TechInfoSystems LLC |
 
+## Posts
+
+- [How L2 load balancing really works on bare-metal Kubernetes](posts/l2-load-balancing/) (2026-11-17)
+
+  [![L2 load balancing and failover](posts/l2-load-balancing/l2-failover.gif)](posts/l2-load-balancing/)
+
 ## Open source
 
 - [gitclip](https://github.com/ervinmckeats/gitclip): enforces git rules for AI coding agents (Claude Code, Codex, Cursor): human-only authorship, no AI trailers, branch and commit naming, PR-only changes.
