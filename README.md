@@ -40,7 +40,7 @@ Senior DevOps Engineer · Site Reliability Engineer (SRE) · Platform Engineer �
 
 | Period | Role | Company |
 |---|---|---|
-| 2025 – now | Software Engineer (SRE) | Citadel |
+| 2025 – now | Software Engineer (SRE) | Confidential company (under NDA) |
 | 2025 | Infrastructure Architect | E-Technologies (formerly Eksmo) |
 | 2023 – 2025 | DevOps Engineer (contract) | Academy of Communications |
 | 2018 – 2023 | Linux System Administrator / SRE Lead | Federal State Institution (government) |
